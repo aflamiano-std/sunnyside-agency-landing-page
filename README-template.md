@@ -1,4 +1,7 @@
 # Sunnyside agency landing page
+
+![Design preview for the Sunnyside agency landing page coding challenge](./design/desktop-preview.jpg)
+
 ## A Frontend Mentor Challenge
 
 This is the first project I made as an aspiring front-end web developer. 
