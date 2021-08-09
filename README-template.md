@@ -12,7 +12,6 @@ By undertaking this challenge, I am able to improve my coding skills by experien
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 
 ## Overview
@@ -50,13 +49,8 @@ Users who view this page should be able to:
 - Mobile-first workflow
 - BEM naming convention
 
-### What I learned
-
-
 ### Continued development
 
+For this page, flexbox was more than enough for styling the whole layout. There are still some hiccups here and there while getting accustomed to flexbox's behavior and quirks but I want to get more comfortable in using it. For future projects, I also want to look into using grid and making good use of both of them.
 
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+I also plan to continue using the BEM naming convention. Using this convention helped a lot in identifying which parts go together and where they fit in the layout. It also helped simplify troubleshooting when issues arise.
