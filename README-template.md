@@ -1,6 +1,9 @@
-# Frontend Mentor - Sunnyside agency landing page solution
+# Sunnyside agency landing page
+## A Frontend Mentor Challenge
 
-This is a solution to the [Sunnyside agency landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is the first project I made as an aspiring front-end web developer. 
+This is a solution to the [Sunnyside agency landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef).
+By undertaking this challenge, I am able to improve my coding skills by experiencing how to build a realistic project.
 
 ## Table of contents
 
@@ -16,13 +19,15 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
 
-Users should be able to:
+The challenge for this project is to build out the landing page and get it looking as close to the design as possible.
+
+It focuses mostly on HTML & CSS and there is also a tiny bit of JS included for the mobile navigation toggle.
+
+Users who view this page should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
@@ -48,18 +53,15 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Built with
 
-- Semantic HTML5 markup
+- HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
+
+
+
 
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
