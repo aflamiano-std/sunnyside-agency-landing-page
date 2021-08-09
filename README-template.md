@@ -36,6 +36,12 @@ Users who view this page should be able to:
 
 ## My process
 
+1. By doing a mobile first approach while also taking the desktop design into consideration, I created the HTML markup starting with the general containers, the headers and the flex parents I intend to manipulate later.
+2. I then proceeded styling with CSS and with the separation of sections from my HTML markup, I focused on finishing one section first before moving onto the next. I decided to skip the navigation part here because it has a completely different design when viewed from a mobile and from a desktop.
+3. Once I was done with all the sections, I moved onto styling the navigation. The callout "look" when displaying the navigation menu on mobile view was a bit challenging and took some googling to accomplish. Once the mobile view of the navigation was done, I added the JS to toggle it and from there finishing the navigation for desktop was a breeze.
+4. After all of that was done, I added the active states for all the links and completed the project.
+
+
 ### Built with
 
 - HTML5 markup
@@ -46,10 +52,6 @@ Users who view this page should be able to:
 
 ### What I learned
 
-1. By doing a mobile first approach while also taking the desktop design into consideration, I created the HTML markup starting with the general containers, the headers and the flex parents I intend to manipulate later.
-2. I then proceeded styling with CSS and with the separation of sections from my HTML markup, I focused on finishing one section first before moving onto the next. I decided to skip the navigation part here because it has a completely different design when viewed from a mobile and from a desktop.
-3. Once I was done with all the sections, I moved onto styling the navigation. The callout "look" when displaying the navigation menu on mobile view was a bit challenging and took some googling to accomplish. Once the mobile view of the navigation was done, I added the JS to toggle it and from there finishing the navigation for desktop was a breeze.
-4. After all of that was done, I added the active states for all the links and completed the project.
 
 ### Continued development
 
